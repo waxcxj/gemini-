@@ -1,4 +1,4 @@
-# Aster AI
+gemini.sflvye.net
 
 一个面向 AI 工作流的信息型落地页，聚焦 Gemini 相关的基础使用判断、任务准备方法与常见问题说明。
 
